@@ -1,7 +1,7 @@
 # BaseStationPreload
 Optional files too big to include in the main repository.
 
-Zip files that add functionality to the BaseStation project.
+Zip files that add functionality to the BaseStation project. GStreamer functionality is from version 15.1.
 
 GStreamer.zip should be unzipped alongside BaseStation.exe.
 
